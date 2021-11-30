@@ -110,6 +110,7 @@ body {
     background-color: transparent;
     color: rgb(119, 255, 149);
     border: none;
+    outline:none;
   }
   .right {
     width: 50px;
@@ -119,6 +120,7 @@ body {
     background-color: transparent;
     color: rgb(119, 255, 149);
     border: none;
+    outline:none;
   }
   .left:active,
   .right:active {
